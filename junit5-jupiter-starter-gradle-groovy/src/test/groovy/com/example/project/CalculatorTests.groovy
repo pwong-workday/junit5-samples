@@ -44,6 +44,6 @@ class CalculatorTests {
 	}
 	@Test
 	void alwaysWrong() {
-		assertEquals(1, 1)
+		assertEquals(2, 1)
 	}
 }
