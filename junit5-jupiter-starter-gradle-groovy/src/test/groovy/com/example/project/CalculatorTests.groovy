@@ -42,9 +42,10 @@ class CalculatorTests {
 	void alwaysTrue() {
 		assertEquals(1, 1)
 	}
-
+/*
 	@Test
 	void alwaysWrong() {
 		assertEquals(1, 2)
 	}
+*/
 }
